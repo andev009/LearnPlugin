@@ -1,4 +1,4 @@
-# LearnPlugin
+# LearnPlugin(android插件Demo)
 使用方法：\
 1.运行module:plugin生成插件plugin-debug.apk\
 2.在手机或模拟器上运行module:firsthostapp\
